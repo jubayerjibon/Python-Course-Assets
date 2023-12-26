@@ -1,0 +1,5 @@
+Learn the basics of Python how it works in this series of videos. 
+I'll be talking about all the main topics like : variables, operators, data types, conditionals, loops, functions, OOP concept,
+and then maybe even some Algorithms and interview questions.
+Check out bellow the link that is a video playlist of our python course.
+https://youtube.com/playlist?list=PLVwc4y2D-ChL74BXj3KaMHjOvTRvzm3Co&si=hry-9v5-gP_89W2x
